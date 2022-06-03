@@ -86,7 +86,6 @@
 
 
 ***
-
 #### 博客首页   
 
 ![](http://leopardpan.github.io//images/readme/img4.png)   
@@ -95,7 +94,7 @@
 
 #### 每篇文章下面都支持打赏   
 
-![](http://leopardpan.github.io/images/readme/img3.png)
+![](http://leopardpan.github.io/images/readme/
 
 #### 文章详情   
 
@@ -112,4 +111,4 @@
 
 #### 感谢   
 
-本博客在[Vno Jekyll](https://github.com/onevcat/vno-jekyll)基础上修改的。  
+本博客在[Vno Jekyll](https://github.com/onevcat/vno-jekyll)基
