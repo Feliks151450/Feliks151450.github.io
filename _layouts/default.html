@@ -1,5 +1,24 @@
 <!DOCTYPE html>
 <html>
   {% include head.html %} 
+  <body>
 
+    <span class="mobile btn-mobile-menu">        
+      <div class="nav_container">
+         
+      </div>
+    </span>
+    
+    {% include side-panel.html %}
+
+    <div class="content-wrapper">
+        <div class="content-wrapper__inner">
+            {{ content }}
+            {% include footer.html %}
+        </div>
+    </div>
+    
+    {% include external.html %}
+    
+  </body>
 </html>
